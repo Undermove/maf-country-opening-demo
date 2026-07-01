@@ -1,0 +1,8 @@
+{
+  "supported": [
+    { "code": "en", "name": "English" },
+    { "code": "de", "name": "German" },
+    { "code": "tr", "name": "Turkish" },
+    { "code": "ru", "name": "Russian" }
+  ]
+}
