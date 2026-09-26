@@ -1,0 +1,7 @@
+{
+  "code": "es",
+  "name": "Spain",
+  "currency": "EUR",
+  "languages": ["es", "ca"],
+  "status": "live"
+}
